@@ -8,6 +8,7 @@ Grade de horários semanais com atividades organizadas por dia e hora.
 - Estilização com CSS para legibilidade
 - Uso de cores alternadas (zebra stripes)
 
+---
 
 🛠️ Tecnologias Utilizadas
 
